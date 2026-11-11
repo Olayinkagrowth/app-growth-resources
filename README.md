@@ -34,3 +34,19 @@ Website: https://nexatop.vercel.app
 ## Disclaimer
 
 These resources are for educational and planning purposes. Results depend on each app, its market, execution, and available data.
+
+## Explore Our Resources
+
+Practical guides and templates to help mobile app founders improve visibility, prepare for launch, and build sustainable growth.
+
+### App Store Optimization
+- [ASO Checklist](aso-checklist.md) — A practical checklist for improving app store visibility and listing performance.
+
+### Competitor Research
+- [Competitor Analysis Template](competitor-analysis-template.md) — Evaluate competing apps, identify market gaps, and discover positioning opportunities.
+
+### App Launch
+- [App Launch Checklist](app-launch-checklist.md) — Prepare your app for publishing, promotion, and post-launch optimization.
+
+### App Growth
+- [App Growth Audit Template](app-growth-audit-template.md) — Assess visibility, acquisition, conversion, engagement, and growth opportunities.
