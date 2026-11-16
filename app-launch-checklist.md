@@ -112,4 +112,4 @@ Platform review timelines, publishing requirements, and available promotional fe
 
 **Created by NEXATOP**
 
-Website: https://nexatop.vercel.app
+Website: https://nextop-inky.vercel.app
