@@ -22,7 +22,7 @@ Effective app growth goes beyond downloads. It involves reaching the right audie
 
 NEXATOP helps mobile app founders and developers work toward better app visibility, user acquisition, and sustainable growth through ASO and app marketing strategies.
 
-Website: https://nextop-inky.vercel.app/
+Website: https://nextop-inky.vercel.app
 
 ## Who This Is For
 
