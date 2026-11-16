@@ -235,4 +235,4 @@ Avoid presenting estimates as verified results. Actual growth depends on product
 
 **Created by NEXATOP**
 
-Website: https://nextop-inky.vercel.app/
+Website: https://nextop-inky.vercel.app
