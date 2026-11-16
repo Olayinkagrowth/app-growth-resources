@@ -63,4 +63,4 @@ A practical checklist by NEXATOP to help mobile app founders improve app store v
 ASO is an ongoing process. Results depend on the app category, competition, audience, market, and quality of execution.
 
 Created by NEXATOP
-Website: https://nexatop.vercel.app
+Website: https://nextop-inky.vercel.app
